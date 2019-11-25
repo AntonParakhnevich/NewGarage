@@ -14,5 +14,6 @@ public class Test {
         garage.checkOut( bmw1, 2);
         garage.amount("BMW");
         System.out.println(bmw1);
+        System.out.println(kia);
     }
 }
